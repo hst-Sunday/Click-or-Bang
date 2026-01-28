@@ -1,0 +1,5 @@
+{
+  "name": "Magnum Opus: 3D Revolver",
+  "description": "A photorealistic, interactive 3D .357 revolver simulator. Features manual cylinder control, physics-based recoil, and Russian Roulette mechanics.",
+  "requestFramePermissions": []
+}
